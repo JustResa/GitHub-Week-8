@@ -1,0 +1,54 @@
+---
+title: "Predictive Modeling Semester"
+author: "Sharesa Hayden"
+date: "2024-03-09"
+output: html_document
+---
+
+# Week 1 Learnings
+
+1. Explored the foundational concepts of the data science process, understanding the critical stages of problem formulation, data collection, and initial exploration.
+2. Gained practical experience in loading diverse datasets into R, ensuring a comprehensive understanding of data ingestion techniques.
+
+# Week 2 Learnings
+
+1. Developed skills in data exploration and visualization, learning how to uncover patterns and trends that inform subsequent modeling decisions.
+2. Mastered data management techniques, including cleaning and preprocessing, to ensure the quality and reliability of input datasets.
+
+# Week 3 Learnings
+
+1. Explored the assumptions underlying linear regression models, grasping the importance of meeting these assumptions for reliable predictive modeling.
+2. Acquired proficiency in building and interpreting linear regression models, with a focus on making accurate predictions.
+
+# Week 4 Learnings
+
+1. Investigated the construction and application of logistic regression models for binary classification problems, understanding the significance of odds ratios and model coefficients.
+2. Gained hands-on experience in making predictions using logistic regression, a crucial skill for tackling real-world classification challenges.
+
+# Week 5 Learnings
+
+1. Explored Generalized Linear Models (GLM) and their versatile applications in various statistical scenarios, including non-linear relationships.
+2. Applied GLM to real-world use cases, developing a nuanced understanding of the model selection process based on different data types.
+
+# Week 6 Learnings
+
+1. Delved into the intricacies of Decision Trees, Random Forests, and Gradient Boosting Machines (GBM) as powerful predictive modeling techniques with a focus on ensemble methods.
+2. Acquired practical skills in implementing these ensemble methods, understanding their strengths, weaknesses, and optimal use cases.
+
+# Week 7 Learnings
+
+1. Explored Cluster Analysis techniques, learning how to identify and interpret inherent patterns and structures within datasets.
+2. Studied Principal Component Analysis (PCA) as a dimensionality reduction method, gaining insights into its applications for handling complex datasets effectively.
+
+# Week 8 Learnings
+
+1. Learned the importance of documentation and model deployment in the predictive modeling lifecycle, focusing on replicability and practical implementation.
+2. Developed effective communication strategies for conveying modeling results to diverse stakeholders, ensuring the impact and understanding of predictive models in real-world applications.
+
+# Final Week Learnings
+
+1. Applied all learned concepts to a comprehensive final course project, integrating predictive modeling techniques into a practical solution.
+2. Gained a holistic understanding of the end-to-end predictive modeling process, from data preparation to model deployment and communication strategies.
+
+
+
